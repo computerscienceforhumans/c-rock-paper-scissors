@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\CSFH\\1 Day Projects\\RockPaperScissors\\C\\RockPaperScissors\\PaperScissorsRock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4168E0-54C1-4218-B3F9-8C3AD8C2705A}|PaperScissorsRock.vcxproj|G:\\CSFH\\1 Day Projects\\RockPaperScissors\\C\\RockPaperScissors\\PaperScissorsRock\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E4168E0-54C1-4218-B3F9-8C3AD8C2705A}|PaperScissorsRock.vcxproj|solutionrelative:Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 292,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.c",
+              "DocumentMoniker": "G:\\CSFH\\1 Day Projects\\RockPaperScissors\\C\\RockPaperScissors\\PaperScissorsRock\\Main.c",
+              "RelativeDocumentMoniker": "Main.c",
+              "ToolTip": "G:\\CSFH\\1 Day Projects\\RockPaperScissors\\C\\RockPaperScissors\\PaperScissorsRock\\Main.c",
+              "RelativeToolTip": "Main.c",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAqwHUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-02T17:05:01.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

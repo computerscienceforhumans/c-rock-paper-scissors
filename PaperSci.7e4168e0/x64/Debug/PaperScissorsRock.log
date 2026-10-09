@@ -1,0 +1,5 @@
+﻿  Main.c
+G:\CSFH\1 Day Projects\RockPaperScissors\C\RockPaperScissors\PaperScissorsRock\Main.c(104,9): warning C4098: 'doRound': 'void' function returning a value
+G:\CSFH\1 Day Projects\RockPaperScissors\C\RockPaperScissors\PaperScissorsRock\Main.c(114,46): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[15]'
+G:\CSFH\1 Day Projects\RockPaperScissors\C\RockPaperScissors\PaperScissorsRock\Main.c(114,46): warning C4024: 'choiceToEnum': different types for formal and actual parameter 1
+  PaperScissorsRock.vcxproj -> G:\CSFH\1 Day Projects\RockPaperScissors\C\RockPaperScissors\PaperScissorsRock\x64\Debug\PaperScissorsRock.exe
